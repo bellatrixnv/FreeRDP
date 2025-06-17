@@ -795,9 +795,10 @@ static const RDP_KEYBOARD_LAYOUT_VARIANT sRDP_KEYBOARD_LAYOUT_VARIANT_TABLE[] = 
 	{ KBD_UNITED_STATES_DVORAK_PROGRAMMER, 0x001C, "United States-Programmer Dvorak" },
 	{ KBD_GREEK_LATIN, 0x0019, "Greek Latin" },
 	{ KBD_US_ENGLISH_TABLE_FOR_IBM_ARABIC_238_L, 0x000B, "US English Table for IBM Arabic 238_L" },
-	{ KBD_GREEK_POLYTONIC, 0x001F, "Greek Polytonic" },
-	{ KBD_FRENCH_BEPO, 0x00C0, "French Bépo" },
-	{ KBD_GERMAN_NEO, 0x00C0, "German Neo" }
+        { KBD_GREEK_POLYTONIC, 0x001F, "Greek Polytonic" },
+        { KBD_FRENCH_BEPO, 0x00C0, "French Bépo" },
+        { KBD_GERMAN_NEO, 0x00C0, "German Neo" },
+        { KBD_GERMAN_NOTED, 0x00C0, "German Noted" }
 };
 static const size_t sRDP_KEYBOARD_LAYOUT_VARIANT_TABLE_len =
     ARRAYSIZE(sRDP_KEYBOARD_LAYOUT_VARIANT_TABLE);
