@@ -1022,12 +1022,17 @@
 			"id": 192.0,
 			"name": "French Bépo"
 		},
-		{
-			"code": 2952791047.0,
-			"id": 192.0,
-			"name": "German Neo"
-		}
-	],
+                {
+                        "code": 2952791047.0,
+                        "id": 192.0,
+                        "name": "German Neo"
+                },
+                {
+                        "code": 3221226503.0,
+                        "id": 192.0,
+                        "name": "German Noted"
+                }
+        ],
 	"KeyboardIme": [
 		{
 			"code": 3758162948.0,

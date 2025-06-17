@@ -339,8 +339,9 @@ static const XKB_VARIANT de_variants[] = {
 	  KBD_GERMAN }, /* Romanian keyboard with German letters, eliminate dead keys */
 	{ "dvorak", KBD_UNITED_STATES_DVORAK }, /* Dvorak */
 	{ "sundeadkeys", KBD_GERMAN },          /* Sun dead keys */
-	{ "neo", KBD_GERMAN_NEO },              /* Neo 2 */
-	{ "mac", KBD_GERMAN },                  /* Macintosh */
+        { "neo", KBD_GERMAN_NEO },              /* Neo 2 */
+        { "noted", KBD_GERMAN_NOTED },          /* Noted */
+        { "mac", KBD_GERMAN },                  /* Macintosh */
 	{ "mac_nodeadkeys", KBD_GERMAN },       /* Macintosh, eliminate dead keys */
 	{ "dsb", KBD_GERMAN },                  /* Lower Sorbian */
 	{ "dsb_qwertz", KBD_GERMAN },           /* Lower Sorbian (qwertz) */
